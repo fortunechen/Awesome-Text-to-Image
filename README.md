@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of resources on text-to-image synthesis task.
+A collection of resources on general text-to-image synthesis task.
 
 ## <span id="head-content"> *Content* </span>
 * - [x] [1. Description](#head1)
@@ -18,24 +18,13 @@ A collection of resources on text-to-image synthesis task.
   * [Oxford-102 Flower](#head-Flower)
   * [MS-COCO](#head-COCO)
   * [Multi-Modal-CelebA-HQ](#head-Multi-Modal-CelebA-HQ)
+  
 * - [ ] [4. Paper With Code](#head4)
-  * - [ ] [Survey](#head-Survey)
-  * - [ ] [2021](#head-2021)
-  * - [ ] [2020](#head-2020)
-  * - [x] [2019](#head-2019)
-  * - [x] [2018](#head-2018)
-  * - [x] [2017](#head-2017)
-  * - [x] [2016](#head-2016)
   
 * - [ ] [5. Other Related Works](#head5)
-  * - [ ] [Label-set → Semantic maps](#head-L2S)
   * - [ ] [Text+Image → Image](#head-TI2I)
-  * - [ ] [Layout → Image](#head-L2I)
-  * - [ ] [Speech → Image](#head-S2I)
-  * - [ ] [Text → Visual Retrieval](#head-T2VR)
   * - [ ] [Text → Video](#head-T2V)
 
-* [*Contact Me*](#head6)
 
  ## <span id="head1"> *1.Description* </span>
 
