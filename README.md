@@ -121,6 +121,8 @@ A number of studies have been conducted on the text-to-image synthesis technique
     
 * <span id="head-2017"> **2017**  </span>
     * (ICCV 2017) **StackGAN: Text to photo-realistic image synthesis with stacked generative adversarial networks**, Han Zhang et al. [[Paper](https://arxiv.org/pdf/1612.03242.pdf)] [[Code](https://github.com/hanzhanggit/StackGAN)]
+    * （arXiv 2017）**TAC-GAN – Text Conditioned Auxiliary Classifier Generative Adversarial Network**, Ayushman Dash et al. [[paper](https://arxiv.org/pdf/1703.06412.pdf)]
+    * (ICIP 2017) **I2T2I: LEARNING TEXT TO IMAGE SYNTHESIS WITH TEXTUAL DATA AUGMENTATION**, Hao Dong et al. [[paper](https://arxiv.org/pdf/1703.06676.pdf)]
     
 
 * <span id="head-2016"> **2016**  </span>
