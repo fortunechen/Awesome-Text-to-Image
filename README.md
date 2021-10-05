@@ -91,6 +91,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (2019) **A Survey and Taxonomy of Adversarial Neural Networks for Text-to-Image Synthesis**, Jorge Agnese et al. [[Paper](https://arxiv.org/pdf/1910.09399.pdf)] 
     
 * <span id="head-2021"> **2021**  </span>
+    * (ICCV 2021) **DAE-GAN: Dynamic Aspect-aware GAN for Text-to-Image Synthesis**, Shulan Ruan et al. [[Paper](https://arxiv.org/abs/2108.12141)][[code](https://github.com/hiarsal/DAE-GAN/)]
     * (CVPR 2021) **Cross-Modal Contrastive Learning for Text-to-Image Generation**, Han Zhang et al. [[Paper](https://arxiv.org/pdf/2101.04702.pdf)]  
     * (TMM 2021) **Modality Disentangled Discriminator for Text-to-Image Synthesis**, Fangxiang Feng et al. [[paper](https://ieeexplore.ieee.org/abstract/document/9417738)][[code](https://github.com/FangxiangFeng/DM-GAN-MDD)]
     * (axXiv 2021) **Text to Image Generation with Semantic-Spatial Aware GAN**,Kai Hu et al. [[paper](https://arxiv.org/abs/2104.00567)][[code](https://github.com/wtliao/text2image)]
