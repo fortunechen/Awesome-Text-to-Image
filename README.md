@@ -120,6 +120,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (TCSVT 2019)**Bridge-GAN: Interpretable Representation Learning for Text-to-image Synthesis** Mingkuan Yuan et al. [[paper](https://ieeexplore.ieee.org/abstract/document/8902154)]
     * （ICLR 2019）**GENERATING MULTIPLE OBJECTS AT SPATIALLY DISTINCT LOCATIONS** Tobias Hinz et al. [[paper](https://openreview.net/forum?id=H1edIiA9KQ)][[code](https://github.com/tohinz/multiple-objects-gan)]
     * (AAAI 2019) **Perceptual Pyramid Adversarial Networks for Text-to-Image Synthesis** Lianli Gao et al. [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4844)]
+    * （WACV 2019）**C4Synth: Cross-Caption Cycle-Consistent Text-to-Image Synthesis** K J Joseph et al. [[paper](https://arxiv.org/pdf/1809.10238.pdf)]
     
 * <span id="head-2018"> **2018**  </span>
     * (CVPR 2018) **AttnGAN: Fine-grained text to image generation with attentional generative adversarial networks**, Tao Xu et al. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_AttnGAN_Fine-Grained_Text_CVPR_2018_paper.pdf)] [[Code](https://github.com/taoxugit/AttnGAN)]
