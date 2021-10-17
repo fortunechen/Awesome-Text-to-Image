@@ -96,6 +96,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (TMM 2021) **Modality Disentangled Discriminator for Text-to-Image Synthesis**, Fangxiang Feng et al. [[paper](https://ieeexplore.ieee.org/abstract/document/9417738)][[code](https://github.com/FangxiangFeng/DM-GAN-MDD)]
     * (axXiv 2021) **Text to Image Generation with Semantic-Spatial Aware GAN**,Kai Hu et al. [[paper](https://arxiv.org/abs/2104.00567)][[code](https://github.com/wtliao/text2image)]
     * (IEEE magazine Multimedia 2021) **Class-balanced Text to Image Synthesis with Attentive Generative Adversarial Network** [[paper](https://www.computer.org/csdl/magazine/mu/5555/01/09314089/1q8U9pDqGaI)]
+    * (arXiv July 2021) **CRD-CGAN: Category-Consistent and Relativistic Constraints for Diverse Text-to-Image Generation** [[paper](https://arxiv.org/abs/2107.13516)]
      
     
 * <span id="head-2020"> **2020**  </span>
@@ -105,6 +106,7 @@ A number of studies have been conducted on the text-to-image synthesis technique
     * (TIP 2020) **KT-GAN: Knowledge-Transfer Generative Adversarial Network for Text-to-Image Synthesis**, Hongchen Tan et al. [[paper](https://ieeexplore.ieee.org/document/9210842)]
     * （ACM TIST 2020）**End-to-End Text-to-Image Synthesis with Spatial Constrains**, Min Wang et al. [[paper](https://dl.acm.org/doi/10.1145/3391709)]
     * （TMM 2020）**Exploring Global and Local Linguistic Representations for Text-to-image Synthesis**, Ruifan Li et al. [[paper](https://ieeexplore.ieee.org/document/8989803)]
+    *  (AAAI 2020)**Hierarchical Modes Exploring in Generative Adversarial Networks**, Mengxiao Hu et al. [[paper](https://arxiv.org/abs/2003.08752)]
 
     
 * <span id="head-2019"> **2019**  </span>
